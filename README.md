@@ -5,10 +5,10 @@
  <br>
   
 - 📍 Itaquaquecetuba - SP
-- 💻 Desenvolvedor FullStack Java
-- 👨‍🎓 Cursando Bacharelado em Ciência e Tecnologia
-- 👨‍🎓 Cursadno Engenharia de Instrumentação, Automação e Robótica
-- 👨‍🎓 Cursadno Engenharia de Energia
+- 💻 Desenvolvedor FullStack Java (Em desenvolvimento)
+- 👨‍🎓 Cursando Bacharelado em Ciência e Tecnologia (UFABC)
+- 👨‍🎓 Cursando Engenharia de Instrumentação, Automação e Robótica (UFABC)
+- 👨‍🎓 Cursando Engenharia de Energia (UFABC)
 - 📚 Aluno da Generation Brasil
 - 🦾 Amante de tecnologia
 - 🏋️‍♂️ Meu principal hobby é fazer musculação
@@ -22,13 +22,13 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-    <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-  <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Paulo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Paulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Jose-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Jose-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+    <img align="center" alt="Jose-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="Jose-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Jose-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Jose-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Jose-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
  ##
