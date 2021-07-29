@@ -8,7 +8,7 @@
 - 💻 Desenvolvedor FullStack Java
 - 👨‍🎓 Cursando Bacharelado em Ciência e Tecnologia
 - 👨‍🎓 Cursadno Engenharia de Instrumentação, Automação e Robótica
-- 👨‍🎓 Cursadno Engenharia de Instrumentação, Automação e Robótica
+- 👨‍🎓 Cursadno Engenharia de Energia
 - 📚 Aluno da Generation Brasil
 - 🦾 Amante de tecnologia
 - 🏋️‍♂️ Meu principal hobby é fazer musculação
